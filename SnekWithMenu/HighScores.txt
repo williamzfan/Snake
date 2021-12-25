@@ -1,0 +1,10 @@
+William,11
+Tomtoe,11
+ples,11
+empty,10
+test,8
+seven,7
+snek,7
+herm,7
+UNKNOWN,6
+UNKNOWN,6
